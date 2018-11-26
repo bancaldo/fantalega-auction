@@ -27,12 +27,6 @@ Running migrations:
   Applying auction.0001_initial... OK
 ```
 
-
-```
->python main.py
-```
-
-
 ### Import Players
 
 From Players menu, choose "import players" and import MCCnn.txt file.
