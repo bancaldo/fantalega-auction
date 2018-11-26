@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+auction.csv
+.gitignore
